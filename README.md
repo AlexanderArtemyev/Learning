@@ -6,7 +6,7 @@
 
 * Решение практики: `lesson3_practice_backprop_pytorch__Artemyev_AI.ipynb` https://github.com/AlexanderArtemyev/Learning/blob/master/lesson3_practice_backprop_pytorch__Artemyev_AI.ipynb <br> Использовал torch version 0.3.1.post2. <br> При решении возникли вопросы:
 
-1. По сравнению с заданием, понадоиблось определить тензоры как Variable. Можно ли было этого не делать?
+1. По сравнению с заданием, понадобилось определить тензоры как Variable. Можно ли было этого не делать?
 
 2. Чтобы использвовать `LinearClassifier` с оптимизатором torch (Adam) понадобилось написать ещё один метод класса `LinearClassifier`: `named_parameters`.  Можно ли было обойтись без него?
 
