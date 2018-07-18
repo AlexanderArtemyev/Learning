@@ -1,1 +1,1 @@
-Imag files for notebooks
+Image files for notebooks
