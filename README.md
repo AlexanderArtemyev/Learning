@@ -2,7 +2,7 @@
 ## Задание 3 по нейросетям. 2018-07-18.
 
 * Задание: https://github.com/Yorko/HSE_BigML_AddProfEduc/tree/master/module7_deep_learning и
-** Практика к заданию: https://github.com/Yorko/HSE_BigML_AddProfEduc/blob/master/module7_deep_learning/lesson3_practice_backprop_pytorch.ipynb
+* Практика к заданию: https://github.com/Yorko/HSE_BigML_AddProfEduc/blob/master/module7_deep_learning/lesson3_practice_backprop_pytorch.ipynb
 
 * `lesson3_practice_backprop_pytorch__Artemyev_AI.ipynb` https://github.com/AlexanderArtemyev/Learning/blob/master/lesson3_practice_backprop_pytorch__Artemyev_AI.ipynb <br> Использовал torch version 0.3.1.post2. <br> При решении возникли вопросы:
 
